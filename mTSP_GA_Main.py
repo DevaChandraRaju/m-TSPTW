@@ -12,7 +12,7 @@ from time import gmtime, strftime, time
 from SpringClean_DataPull import pull_from_mySQL
 from SpringClean_Genetic_Algorithm import Genetic_Algorithm
 
-os.chdir('C:/Users/dt81540/Desktop/DataScience/Travelling Salesmen Problem - Project/ROS/')
+os.chdir('C:/Users/Travelling Salesmen Problem - Project/ROS/')
 
 ### This is capture the start time
 start = strftime("%Y-%m-%d %H:%M:%S", gmtime())
