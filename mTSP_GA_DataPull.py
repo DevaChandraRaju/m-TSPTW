@@ -3,7 +3,7 @@
 """
 Created on Tue May 30 14:00:15 2017
 
-@author: dt81540
+@author: Deva Chandra Raju Malla
 """
 import pymysql.cursors
 
